@@ -40,7 +40,11 @@ The main goal of this project is to:
 <img width="1776" height="585" alt="Screenshot 2026-01-20 092556" src="https://github.com/user-attachments/assets/8c304ca8-c031-4f36-b275-be30df507d92" />
 
 ### Filter Interaction Example
-https://github.com/user-attachments/assets/cf91c339-c998-4312-941b-b22205786204
+
+
+https://github.com/user-attachments/assets/956de238-7c76-4a15-86ce-f982cc3187b1
+
+
 
 ## How to Use
 1. Select a Job Title using the dropdown menu  
@@ -59,3 +63,4 @@ https://github.com/user-attachments/assets/cf91c339-c998-4312-941b-b22205786204
 - Only input cells and dropdowns are editable  
 - Backend calculation sheets are protected to avoid accidental data modification  
 - Designed to simulate real-world business dashboard usage  
+
